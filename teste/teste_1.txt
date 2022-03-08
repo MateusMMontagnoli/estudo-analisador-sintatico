@@ -1,0 +1,15 @@
+main(){
+int variavel = 2 
+if(variavel == 2){
+    variavel = 1
+}
+else{
+    variavel = 3
+}
+while(variavel == 3){
+    variavel = 1
+}
+for(variavel = 3 ; variavel < 4 ; variavel ++){
+    variavel = 2 + 2
+}
+}
